@@ -1,0 +1,9 @@
+langchain
+streamlit
+unstructured
+tiktoken
+faiss-gpu
+libmagic
+python-magic
+python-magic-bin
+OpenAI 
